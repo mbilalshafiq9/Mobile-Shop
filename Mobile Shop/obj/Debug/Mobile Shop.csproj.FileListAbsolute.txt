@@ -1,0 +1,14 @@
+c:\users\leosoft\documents\visual studio 2015\Projects\Mobile Shop\Mobile Shop\bin\Debug\Mobile Shop.exe.config
+c:\users\leosoft\documents\visual studio 2015\Projects\Mobile Shop\Mobile Shop\bin\Debug\Mobile Shop.exe
+c:\users\leosoft\documents\visual studio 2015\Projects\Mobile Shop\Mobile Shop\bin\Debug\Mobile Shop.pdb
+c:\users\leosoft\documents\visual studio 2015\Projects\Mobile Shop\Mobile Shop\obj\Debug\Mobile Shop.csprojResolveAssemblyReference.cache
+c:\users\leosoft\documents\visual studio 2015\Projects\Mobile Shop\Mobile Shop\obj\Debug\Mobile_Shop.Properties.Resources.resources
+c:\users\leosoft\documents\visual studio 2015\Projects\Mobile Shop\Mobile Shop\obj\Debug\Mobile Shop.csproj.GenerateResource.Cache
+c:\users\leosoft\documents\visual studio 2015\Projects\Mobile Shop\Mobile Shop\obj\Debug\Mobile Shop.exe
+c:\users\leosoft\documents\visual studio 2015\Projects\Mobile Shop\Mobile Shop\obj\Debug\Mobile Shop.pdb
+C:\Users\Leosoft\documents\visual studio 2015\Projects\Mobile Shop\Mobile Shop\obj\Debug\Mobile_Shop.Menu_form.resources
+C:\Users\Leosoft\documents\visual studio 2015\Projects\Mobile Shop\Mobile Shop\obj\Debug\Mobile_Shop.form_item.resources
+C:\Users\Leosoft\documents\visual studio 2015\Projects\Mobile Shop\Mobile Shop\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Leosoft\documents\visual studio 2015\Projects\Mobile Shop\Mobile Shop\obj\Debug\Mobile_Shop.login_form.resources
+C:\Users\Leosoft\documents\visual studio 2015\Projects\Mobile Shop\Mobile Shop\obj\Debug\Mobile_Shop.products_form.resources
+C:\Users\Leosoft\Documents\Visual Studio 2015\Projects\Mobile Shop\Mobile Shop\obj\Debug\Mobile_Shop.add_product.resources
